@@ -1,4 +1,4 @@
-Sinatra
+First Sinatra App: Messages Wall
 =============
 
 Brought to you by Lighthouse Labs
